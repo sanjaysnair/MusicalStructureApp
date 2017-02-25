@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Music App</string>
+
+    <string name="back_button">Back</string>
+
+    <string name="album_heading">List of albums</string>
+    <string name="now_playing_heading">Now playing</string>
+
+    <!-- Albums -->
+    <string name="album_name_1">Bar Bar Dekho</string>
+    <string name="album_name_2">-</string>
+    <string name="album_name_3">-</string>
+    <string name="album_name_4">-</string>
+    <string name="album_name_5">-</string>
+    <string name="album_name_6">-</string>
+
+    <string name="album_detail_heading">List of songs</string>
+
+    <!-- album 1 songs -->
+    <string name="album1_song1">Teri Khair Mangdi</string>
+    <string name="album1_song2">Dariya</string>
+    <string name="album1_song3">Sau Aasmaan</string>
+    <string name="album1_song4">Nachde Ne Saare</string>
+    <string name="album1_song5">Kho Gaye Hum Kahan</string>
+    <string name="album1_song6">Kala Chashma</string>
+    
+    <string name="now_play_activity_solution">Use the Android - MediaPlayer to play the music.</string>
+
+</resources>
